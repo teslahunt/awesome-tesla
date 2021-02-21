@@ -3,6 +3,7 @@
 > A curated list of awesome resources related with Tesla Motors.
 
 ## Contents
+
 - [Marketplaces](#marketplaces)
 - [Automatization](#automatization)
 - [In-Car Browser Apps](#in-car-browser-apps)
