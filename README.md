@@ -27,3 +27,9 @@
 - [EV Registration](https://eu-evs.com/) – EV registration statistics for European countries.
 - [Tesla Deaths](https://www.tesladeaths.com) – Every Tesla accident resulting in death.
 - [Tesla EV Specifications](https://www.evspecifications.com/en/brand/b1e92) – A comprehensible list of all Tesla models and specs over time.
+
+## Coding Libraries
+
+- [tesla-images](https://github.com/teslahunt/tesla-images) – Get Tesla vehicles images from Tesla inventory or 3D visualization.
+- [tesla-inventory](https://github.com/teslahunt/tesla-inventory) – Retrieve real-time data from Tesla Inventory.
+- [tesla-title](https://github.com/teslahunt/tesla-title) – Get Tesla vehicles title based on option codes.
