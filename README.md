@@ -35,7 +35,7 @@
 
 - [Tesla JSON API](https://tesla-api.timdorr.com) – The unoffocial Tesla API.
 - [Tesla Referral Stats](https://top.teslastats.no) – Top Tesla referrers from the Tesla referral program.
-- [Tesla Registration Stats](https://teslastats.no) – Top Tesla referrers from the Tesla referral program.
+- [Tesla Registration Stats](https://teslastats.no) – General Tesla registration stats.
 - [Teslike](https://teslike.com) – A continous update table reporting real battery ranges.
 - [Tesla Vehicle Comparisons](https://docs.google.com/spreadsheets/d/1Rv464J1RsXNBNddy008IPsQfVrO4kHPh_L4HWKpG4bo/edit#gid=0) – A comprehensive over Tesla vehicles and effective cost.
 - [EV Registration](https://eu-evs.com/) – EV registration statistics for European countries.
