@@ -3,14 +3,21 @@
 > A curated list of awesome resources related with Tesla Motors.
 
 ## Contents
+- [Marketplaces](#marketplaces)
 - [Automatization](#automatization)
 - [In-Car Browser Apps](#in-car-browser-apps)
 - [Technical Information](#technical-information)
 - [Coding Libraries](#coding-libraries)
 
+## Marketplaces
+
+- [teslahunt.io](https://teslahunt.io/) – Real-time Tesla Certified Pre Owned (CPO) inventory monitoring in Europe.
+- [teslacpo.io](https://www.teslacpo.io/) – Power search for the savvy Tesla buyer.
+- [ev-cpo.com](https://ev-cpo.com/) – Search, filter, and sort all Tesla New and Used Inventory.
+- [ev-tsla.com](https://ev-cpo.com/) – Tesla global inventory search.
+
 ## Automatization
 
-- [Tesla Hunt](https://teslahunt.io/) – Real-time Tesla Certified Pre Owned (CPO) inventory monitoring in Europe.
 - [TeslaMate](https://github.com/adriankumpf/teslamate) – A self-hosted data logger for your Tesla.
 - [AutoMate](https://apps.apple.com/us/app/automate-for-tesla/id1382111619) – Automate your Tesla from your iPhone.
 - [tesLAX](https://apps.apple.com/us/app/teslax-canbus-explorer/id1495403139) – an iOS CANBus Explorer to visualize internal metrics.
