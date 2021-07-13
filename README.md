@@ -24,6 +24,10 @@
 - [tesLAX](https://apps.apple.com/us/app/teslax-canbus-explorer/id1495403139) - An iOS CANBus Explorer to visualize internal metrics.
 - [ABRP](https://abetterrouteplanner.com/) - The best trip route planner for Tesla Owners ([iOS](https://apps.apple.com/us/app/a-better-routeplanner-abrp/id1490860521) | [Android](https://play.google.com/store/apps/details?id=com.iternio.abrpapp)).
 
+## Charging
+
+- [TWCManager](https://github.com/ngardiner/TWCManager) – Control power delivered by a Tesla Wall Charger.
+
 ## In-Car Browser Apps
 
 - [Waze for Tesla](https://teslawaze.azurewebsites.net) - Webapp that displays incidents reported via Waze.
