@@ -52,3 +52,4 @@
 - [tesla-images](https://github.com/teslahunt/tesla-images) - Get Tesla vehicles images from Tesla inventory or 3D visualization.
 - [tesla-inventory](https://github.com/teslahunt/tesla-inventory) - Retrieve real-time data from Tesla Inventory.
 - [tesla-title](https://github.com/teslahunt/tesla-title) - Get Tesla vehicles title based on option codes.
+- [tesla-vin](https://github.com/teslahunt/tesla-vin) - Tesla Vehicle Identification Number (VIN) implemented following Model S/3/X/Y service manuals.
