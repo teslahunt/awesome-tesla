@@ -35,6 +35,7 @@
 - [Tesla Screens](http://www.kinetic.com/teslascreens/) - Cool screens for Tesla browser such as Kitt & The Matrix and more.
 - [Tesla Winds and Elevation](https://teslawinds.com/) - Geographical information during your trips.
 - [qTesla](https://qtes.la/) - Tesla browser based app launcher.
+- [Tesla Link](https://teslasend.link/) - Send web links to the Tesla browser from your phone.
 
 ## Technical Information
 
