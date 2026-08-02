@@ -29,6 +29,7 @@
 ## Charging
 
 - [TWCManager](https://github.com/ngardiner/TWCManager) – Control power delivered by a Tesla Wall Charger.
+- [Tesla Chargers](https://tesla-chargers.com) - Find nearby Superchargers with stall counts, peak charging speeds, amenities, and directions.
 
 ## In-Car Browser Apps
 
