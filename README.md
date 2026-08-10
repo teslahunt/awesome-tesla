@@ -25,6 +25,7 @@
 - [ABRP](https://abetterrouteplanner.com/) - The best trip route planner for Tesla Owners ([iOS](https://apps.apple.com/us/app/a-better-routeplanner-abrp/id1490860521) | [Android](https://play.google.com/store/apps/details?id=com.iternio.abrpapp)).
 - [Tesla Light Show](https://github.com/teslamotors/light-show) - Create and run your own light shows on Tesla vehicles.
 - [WattsonBot](https://wattsonbot.org/) - Real-time Tesla alerts in Telegram: charging, battery, TPMS and drive summaries.
+- [SentryAlert](https://sentryalert.app) - Push notifications on your phone when your Tesla reports a Sentry Mode event ([iOS](https://apps.apple.com/app/id6759935513) | [Android](https://play.google.com/store/apps/details?id=com.couzon.sentryalert)).
 
 ## Charging
 
