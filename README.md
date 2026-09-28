@@ -6,6 +6,7 @@
 
 - [Marketplaces](#marketplaces)
 - [Automatization](#automatization)
+- [Customization](#customization)
 - [In-Car Browser Apps](#in-car-browser-apps)
 - [Technical Information](#technical-information)
 - [Coding Libraries](#coding-libraries)
@@ -22,7 +23,7 @@
 - [TeslaMate](https://github.com/adriankumpf/teslamate) - A self-hosted data logger for your Tesla.
 - [AutoMate](https://apps.apple.com/us/app/automate-for-tesla/id1382111619) - Automate your Tesla from your iPhone.
 - [tesLAX](https://apps.apple.com/us/app/teslax-canbus-explorer/id1495403139) - An iOS CANBus Explorer to visualize internal metrics.
-- [ABRP](https://abetterrouteplanner.com/) - The best trip route planner for Tesla Owners ([iOS](https://apps.apple.com/us/app/a-better-routeplanner-abrp/id1490860521) | [Android](https://play.google.com/store/apps/details?id=com.iternio.abrpapp)).
+- [ABRP](https://abetterrouteplanner.com/) - The best trip route planner for Tesla Owners ([iOS](https://apps.apple.com/us/app/a-better-routeplanner-abrp/id1490860521) | [Android](https://play.google.com/store/apps/details?id=com.iternio.abrpapp)).
 - [Tesla Light Show](https://github.com/teslamotors/light-show) - Create and run your own light shows on Tesla vehicles.
 - [WattsonBot](https://wattsonbot.org/) - Real-time Tesla alerts in Telegram: charging, battery, TPMS and drive summaries.
 - [SentryAlert](https://sentryalert.app) - Push notifications on your phone when your Tesla reports a Sentry Mode event ([iOS](https://apps.apple.com/app/id6759935513) | [Android](https://play.google.com/store/apps/details?id=com.couzon.sentryalert)).
@@ -31,6 +32,10 @@
 
 - [TWCManager](https://github.com/ngardiner/TWCManager) – Control power delivered by a Tesla Wall Charger.
 - [Tesla Chargers](https://tesla-chargers.com) - Find nearby Superchargers with stall counts, peak charging speeds, amenities, and directions.
+
+## Customization
+
+- [Tesla Wrap Designer](https://tesla-wrap.design/) - Design Tesla Paint Shop wraps with AI and a 3D preview, then export the PNG for the Tesla app or USB.
 
 ## In-Car Browser Apps
 
