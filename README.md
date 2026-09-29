@@ -6,6 +6,7 @@
 
 - [Marketplaces](#marketplaces)
 - [Automatization](#automatization)
+- [Customization](#customization)
 - [In-Car Browser Apps](#in-car-browser-apps)
 - [Technical Information](#technical-information)
 - [Coding Libraries](#coding-libraries)
@@ -31,6 +32,10 @@
 
 - [TWCManager](https://github.com/ngardiner/TWCManager) – Control power delivered by a Tesla Wall Charger.
 - [Tesla Chargers](https://tesla-chargers.com) - Find nearby Superchargers with stall counts, peak charging speeds, amenities, and directions.
+
+## Customization
+
+- [Tesla Wrap Designer](https://tesla-wrap.design/) - Design Tesla Paint Shop wraps with AI and a 3D preview, then export the PNG for the Tesla app or USB.
 
 ## In-Car Browser Apps
 
