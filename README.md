@@ -34,6 +34,8 @@
 ## Customization
 
 - [Tesla Wrap Designer](https://tesla-wrap.design/) - Design Tesla Paint Shop wraps with AI and a 3D preview, then export the PNG for the Tesla app or USB.
+
+- [TeslaWraps](https://teslawraps.design/) - Free browser editor for Tesla Paint Shop wraps with model templates, panel masking and a 3D preview; no account needed, optional paid AI credits.
 - [Tesla Mod](https://github.com/hypery11/flipper-tesla-fsd) - Open-source CAN bus toolkit for Flipper Zero and ESP32 with a live BMS dashboard, CAN capture, adjustable Track Mode, and Autopilot/FSD feature toggles over OBD-II or the X179 connector.
 - [FrunkLab](https://www.frunklab.com/) - Design Tesla Paint Shop wraps with a live 3D preview and an AI generator, and make custom lock chimes, with free PNG and LockChime.wav downloads.
 
