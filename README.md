@@ -25,6 +25,7 @@
 - [Tesla Light Show](https://github.com/teslamotors/light-show) - Create and run your own light shows on Tesla vehicles.
 - [WattsonBot](https://wattsonbot.org/) - Real-time Tesla alerts in Telegram: charging, battery, TPMS and drive summaries.
 - [SentryAlert](https://sentryalert.app) - Push notifications on your phone when your Tesla reports a Sentry Mode event ([iOS](https://apps.apple.com/app/id6759935513) | [Android](https://play.google.com/store/apps/details?id=com.couzon.sentryalert)).
+- [Amya](https://amya.app/tesla/) - Family location app; while you drive, your family sees your Tesla's destination, arrival time and battery on the map, end-to-end encrypted, via Tesla's Fleet API (paid tier) ([iOS](https://apps.apple.com/app/id6807341865)).
 
 ## Charging
 
