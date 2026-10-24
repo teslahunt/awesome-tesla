@@ -46,6 +46,7 @@
 - [Tesla Screens](http://www.kinetic.com/teslascreens/) - Cool screens for Tesla browser such as Kitt & The Matrix and more.
 - [Tesla Winds and Elevation](https://teslawinds.com/) - Geographical information during your trips.
 - [Tesla Link](https://teslasend.link/) - Send web links to the Tesla browser from your phone.
+- [tescast](https://tescast.app/en) - Live TV, YouTube and your own IPTV list in the Tesla browser, also for passengers while driving. Paid, with a free trial.
 
 ## Technical Information
 
