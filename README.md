@@ -57,6 +57,7 @@
 - [Tesla Deaths](https://www.tesladeaths.com) - Every Tesla accident resulting in death.
 - [Tesla EV Specifications](https://www.evspecifications.com/en/brand/b1e92) - A comprehensible list of all Tesla models and specs over time.
 - [Tesla OE Cross Reference](https://github.com/maplev-ca/tesla-oe-cross-reference) - Open dataset (CSV/JSON, CC BY 4.0) of Model 3 and Model Y part numbers: 513 Tesla OE numbers grouped by part, with fitment dates and Partslink numbers.
+- [Tesla VIN Decoder](https://teslatracker.com/vin-decoder) - Free VIN lookup for every Tesla: model, year, factory, motor and Autopilot hardware (HW3 vs HW4).
 
 ## Coding Libraries
 
