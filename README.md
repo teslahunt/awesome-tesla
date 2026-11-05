@@ -32,7 +32,6 @@
 
 ## In-Car Browser Apps
 
-- [Waze for Tesla](https://teslawaze.azurewebsites.net) - Webapp that displays incidents reported via Waze.
 - [Tesla Screens](http://www.kinetic.com/teslascreens/) - Cool screens for Tesla browser such as Kitt & The Matrix and more.
 - [Tesla Winds and Elevation](https://teslawinds.com/) - Geographical information during your trips.
 - [Tesla Link](https://teslasend.link/) - Send web links to the Tesla browser from your phone.
