@@ -16,6 +16,7 @@
 - [teslahunt.io](https://teslahunt.io/) - Real-time Tesla Certified Pre Owned (CPO) inventory monitoring in Europe.
 - [ev-cpo.com](https://ev-cpo.com/) - Search, filter, automate-for-teslaand sort all Tesla New and Used Inventory.
 - [ev-tsla.com](https://ev-tsla.com/) - Tesla global inventory search.
+- [TeslaTracker](https://teslatracker.com/) - Tracks every new and used Tesla for sale in the US (Tesla.com, Carvana, CarMax and private sellers) with price history and free price-drop alerts.
 
 ## Automatization
 
@@ -30,6 +31,7 @@
 
 - [TWCManager](https://github.com/ngardiner/TWCManager) – Control power delivered by a Tesla Wall Charger.
 - [Tesla Chargers](https://tesla-chargers.com) - Find nearby Superchargers with stall counts, peak charging speeds, amenities, and directions.
+- [PlaidInvoices](https://plaidinvoices.com) - Automatically collects Tesla Supercharger invoices and emails the PDFs to you, your accountant or your accounting software each month.
 
 ## Customization
 
@@ -47,6 +49,7 @@
 - [Tesla Winds and Elevation](https://teslawinds.com/) - Geographical information during your trips.
 - [Tesla Link](https://teslasend.link/) - Send web links to the Tesla browser from your phone.
 - [tescast](https://tescast.app/en) - Live TV, YouTube and your own IPTV list in the Tesla browser, also for passengers while driving. Paid, with a free trial.
+- [Tesdash](https://tesda.sh) - Self-hosted dashboard with your streaming apps and a URL launcher, all opening fullscreen in the car.
 
 ## Technical Information
 
@@ -58,6 +61,7 @@
 - [Tesla Deaths](https://www.tesladeaths.com) - Every Tesla accident resulting in death.
 - [Tesla EV Specifications](https://www.evspecifications.com/en/brand/b1e92) - A comprehensible list of all Tesla models and specs over time.
 - [Tesla OE Cross Reference](https://github.com/maplev-ca/tesla-oe-cross-reference) - Open dataset (CSV/JSON, CC BY 4.0) of Model 3 and Model Y part numbers: 513 Tesla OE numbers grouped by part, with fitment dates and Partslink numbers.
+- [Tesla VIN Decoder](https://teslatracker.com/vin-decoder) - Free VIN lookup for every Tesla: model, year, factory, motor and Autopilot hardware (HW3 vs HW4).
 
 ## Coding Libraries
 
