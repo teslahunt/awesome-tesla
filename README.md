@@ -16,6 +16,7 @@
 - [teslahunt.io](https://teslahunt.io/) - Real-time Tesla Certified Pre Owned (CPO) inventory monitoring in Europe.
 - [ev-cpo.com](https://ev-cpo.com/) - Search, filter, automate-for-teslaand sort all Tesla New and Used Inventory.
 - [ev-tsla.com](https://ev-tsla.com/) - Tesla global inventory search.
+- [TeslaTracker](https://teslatracker.com/) - Tracks every new and used Tesla for sale in the US (Tesla.com, Carvana, CarMax and private sellers) with price history and free price-drop alerts.
 
 ## Automatization
 
