@@ -2,15 +2,6 @@
 
 > A curated list of awesome resources related with Tesla Motors.
 
-## Contents
-
-- [Marketplaces](#marketplaces)
-- [Automatization](#automatization)
-- [Customization](#customization)
-- [In-Car Browser Apps](#in-car-browser-apps)
-- [Technical Information](#technical-information)
-- [Coding Libraries](#coding-libraries)
-
 ## Marketplaces
 
 - [teslahunt.io](https://teslahunt.io/) - Real-time Tesla Certified Pre Owned (CPO) inventory monitoring in Europe.
