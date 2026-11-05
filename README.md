@@ -2,20 +2,10 @@
 
 > A curated list of awesome resources related with Tesla Motors.
 
-## Contents
-
-- [Marketplaces](#marketplaces)
-- [Automatization](#automatization)
-- [Customization](#customization)
-- [In-Car Browser Apps](#in-car-browser-apps)
-- [Technical Information](#technical-information)
-- [Coding Libraries](#coding-libraries)
-
 ## Marketplaces
 
-- [teslahunt.io](https://teslahunt.io/) - Real-time Tesla Certified Pre Owned (CPO) inventory monitoring in Europe.
-- [ev-cpo.com](https://ev-cpo.com/) - Search, filter, automate-for-teslaand sort all Tesla New and Used Inventory.
 - [ev-tsla.com](https://ev-tsla.com/) - Tesla global inventory search.
+- [teslatracker.com](https://teslatracker.com/) - Tracks every new and used Tesla for sale in the US (Tesla.com, Carvana, CarMax and private sellers) with price history and free price-drop alerts.
 
 ## Automatization
 
@@ -23,7 +13,6 @@
 - [tesLAX](https://apps.apple.com/us/app/teslax-canbus-explorer/id1495403139) - An iOS CANBus Explorer to visualize internal metrics.
 - [ABRP](https://abetterrouteplanner.com/) - The best trip route planner for Tesla Owners ([iOS](https://apps.apple.com/us/app/a-better-routeplanner-abrp/id1490860521) | [Android](https://play.google.com/store/apps/details?id=com.iternio.abrpapp)).
 - [Tesla Light Show](https://github.com/teslamotors/light-show) - Create and run your own light shows on Tesla vehicles.
-- [Glow Cadence](https://glowcadence.com/shows/) - Downloadable Tesla light shows (.fseq) with separate Cybertruck and Model S/3/X/Y editions for every song, $5 per show, no subscription.
 - [WattsonBot](https://wattsonbot.org/) - Real-time Tesla alerts in Telegram: charging, battery, TPMS and drive summaries.
 - [SentryAlert](https://sentryalert.app) - Push notifications on your phone when your Tesla reports a Sentry Mode event ([iOS](https://apps.apple.com/app/id6759935513) | [Android](https://play.google.com/store/apps/details?id=com.couzon.sentryalert)).
 
@@ -31,6 +20,7 @@
 
 - [TWCManager](https://github.com/ngardiner/TWCManager) – Control power delivered by a Tesla Wall Charger.
 - [Tesla Chargers](https://tesla-chargers.com) - Find nearby Superchargers with stall counts, peak charging speeds, amenities, and directions.
+- [PlaidInvoices](https://plaidinvoices.com) - Automatically collects Tesla Supercharger invoices and emails the PDFs to you, your accountant or your accounting software each month.
 
 ## Customization
 
@@ -43,10 +33,11 @@
 
 ## In-Car Browser Apps
 
-- [Waze for Tesla](https://teslawaze.azurewebsites.net) - Webapp that displays incidents reported via Waze.
 - [Tesla Screens](http://www.kinetic.com/teslascreens/) - Cool screens for Tesla browser such as Kitt & The Matrix and more.
 - [Tesla Winds and Elevation](https://teslawinds.com/) - Geographical information during your trips.
 - [Tesla Link](https://teslasend.link/) - Send web links to the Tesla browser from your phone.
+- [tescast](https://tescast.app/en) - Live TV, YouTube and your own IPTV list in the Tesla browser, also for passengers while driving. Paid, with a free trial.
+- [Tesdash](https://tesda.sh) - Self-hosted dashboard with your streaming apps and a URL launcher, all opening fullscreen in the car.
 
 ## Technical Information
 
@@ -58,6 +49,7 @@
 - [Tesla Deaths](https://www.tesladeaths.com) - Every Tesla accident resulting in death.
 - [Tesla EV Specifications](https://www.evspecifications.com/en/brand/b1e92) - A comprehensible list of all Tesla models and specs over time.
 - [Tesla OE Cross Reference](https://github.com/maplev-ca/tesla-oe-cross-reference) - Open dataset (CSV/JSON, CC BY 4.0) of Model 3 and Model Y part numbers: 513 Tesla OE numbers grouped by part, with fitment dates and Partslink numbers.
+- [Tesla VIN Decoder](https://teslatracker.com/vin-decoder) - Free VIN lookup for every Tesla: model, year, factory, motor and Autopilot hardware (HW3 vs HW4).
 
 ## Coding Libraries
 
