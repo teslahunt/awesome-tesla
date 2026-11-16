@@ -38,6 +38,7 @@
 - [Tesla Link](https://teslasend.link/) - Send web links to the Tesla browser from your phone.
 - [tescast](https://tescast.app/en) - Live TV, YouTube and your own IPTV list in the Tesla browser, also for passengers while driving. Paid, with a free trial.
 - [Tesdash](https://tesda.sh) - Self-hosted dashboard with your streaming apps and a URL launcher, all opening fullscreen in the car.
+- [vvid](https://vvid.tv/en/home) - Play YouTube, Bilibili or Douyin links you saved on your phone in the Tesla browser, with synced lyrics for the song playing in the car. Free plan available.
 
 ## Technical Information
 
