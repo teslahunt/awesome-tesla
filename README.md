@@ -20,6 +20,7 @@
 
 - [TWCManager](https://github.com/ngardiner/TWCManager) – Control power delivered by a Tesla Wall Charger.
 - [Tesla Chargers](https://tesla-chargers.com) - Find nearby Superchargers with stall counts, peak charging speeds, amenities, and directions.
+[TeslaSupercharge.me](https://teslasupercharge.me) - Free directory of open US Tesla Superchargers by city and state, with stall counts, power, charge-time estimates and new openings.
 - [PlaidInvoices](https://plaidinvoices.com) - Automatically collects Tesla Supercharger invoices and emails the PDFs to you, your accountant or your accounting software each month.
 
 ## Customization
