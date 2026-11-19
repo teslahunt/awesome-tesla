@@ -38,6 +38,7 @@
 - [Tesla Link](https://teslasend.link/) - Send web links to the Tesla browser from your phone.
 - [tescast](https://tescast.app/en) - Live TV, YouTube and your own IPTV list in the Tesla browser, also for passengers while driving. Paid, with a free trial.
 - [Tesdash](https://tesda.sh) - Self-hosted dashboard with your streaming apps and a URL launcher, all opening fullscreen in the car.
+- [NEON MILES](https://neon-miles.higgsfield.app) - Free synthwave driving game for the in-car browser, driven by the car's real GPS speed, with a stop-light dashboard showing weather and Tesla news.
 
 ## Technical Information
 
