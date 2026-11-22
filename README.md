@@ -38,6 +38,7 @@
 - [Tesla Link](https://teslasend.link/) - Send web links to the Tesla browser from your phone.
 - [tescast](https://tescast.app/en) - Live TV, YouTube and your own IPTV list in the Tesla browser, also for passengers while driving. Paid, with a free trial.
 - [Tesdash](https://tesda.sh) - Self-hosted dashboard with your streaming apps and a URL launcher, all opening fullscreen in the car.
+- [Zen Trips](https://zentrips.app) - Calm, living screensaver scenes that respond to how you drive: speed, turns and stops move the world, and tapping makes things react. Free, no account, no sound.
 
 ## Technical Information
 
